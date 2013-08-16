@@ -8,7 +8,12 @@
 
 ## Coming Soon
 
-    Ability to search other data sets    
+    Ability to search other data sets 
+
+## API Key
+
+    You can add your API key to the file lib/api_key.json by changing the variable key to your API key
+    or pass it as a parameter in the object
 
 ## Query Parameters
     
