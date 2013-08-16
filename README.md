@@ -46,5 +46,5 @@ var params = {
     county: 'pinellas'
 };
 
-console.log(census.sf1(params, callback));
+census.sf1(params, callback);
 ```
