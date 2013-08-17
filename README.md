@@ -18,7 +18,7 @@
     There are 2 days to pass your API key
 
     * Add your API key to the file 'lib/api_key.json'
-    * Pass it as 'api_key' paramter
+    * Pass it as 'api_key' parameter
 
 ## Parameter Information
     
@@ -49,7 +49,7 @@ var callback = function (res) {
 
 var params = {
     year: 2010,                        // 2010 only works for now
-    api_key: 'YOUR_KEY_HERE',          // Optional, with configuration
+    // api_key: 'YOUR_KEY_HERE',          // Optional, with configuration
     state: 'fl',                       // You can use the FIPS code, or the 2 digit state code
                                        //    or spell out the entire state
     county: 'pinellas',                // Spell out the county, or use the FIPS code
@@ -59,9 +59,9 @@ var params = {
 
                                        // The following are configured when you
                                        //    use the state and county options
-    // for: '',                          // Manage the 'for' parameter directly
-    // get: '',                          // Manage the 'get' parameter directly
-    // in: '',                           // Manage the 'in' parameter directly
+    // for: '',                           // Manage the 'for' parameter directly
+    // get: '',                           // Manage the 'get' parameter directly
+    // in: '',                            // Manage the 'in' parameter directly
     
 };
 
