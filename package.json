@@ -1,7 +1,7 @@
 {
     "name": "us-census-api",
     "description": "Acess census.gov API",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": {
         "name": "Noah Keller",
         "email": "noahtkeller@gmail.com",

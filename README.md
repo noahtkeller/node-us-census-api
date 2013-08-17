@@ -1,4 +1,4 @@
-# us-census-api v0.0.4
+# us-census-api v0.0.5
 
     NodeJS interface for census.gov API. Currently only supports sf1 searching.
     Has all of the county and state FIPS codes available.
