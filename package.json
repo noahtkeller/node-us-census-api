@@ -1,17 +1,17 @@
 {
     "name": "us-census-api",
     "description": "Acess census.gov API",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": {
         "name": "Noah Keller",
         "email": "noahtkeller@gmail.com",
-        "url": "noahtkeller.com"
+        "url": ""
     },
     "dependencies": {
 
     },
     "keywords": [
-        "census"
+        "census", "api", "gov", "government"
     ],
     "repository": {
         "type": "git",
